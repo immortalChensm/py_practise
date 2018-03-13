@@ -1,3 +1,7 @@
 once a upon time
 
+<<<<<<< HEAD
 there a woman
+=======
+there a man
+>>>>>>> d49bc7d61d186da0a16e3cecdc599d925f72d181
