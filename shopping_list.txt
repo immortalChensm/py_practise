@@ -1,0 +1,7 @@
+apple
+peach
+tomato
+wheat
+fruist
+jam
+juice
